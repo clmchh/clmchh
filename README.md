@@ -1,6 +1,5 @@
 - 👋 Hello tout le monde, je suis @clmchh
 -  Je m'appelle Clément Chevallier et je suis étudiant en Master Data & Marketing à l'ESD de Bordeaux.
 - 🌱 J'apprends actuellement le langage de programmation Python
-- 💞️ I’m looking to collaborate on ...
 - 📫 Comment me joindre ? Me parler ? Me suivre
 - https://www.linkedin.com/in/cl%C3%A9ment-chevallier-509b5022b/
