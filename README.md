@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @clmchh
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hello tout le monde, je suis @clmchh
+-  Je m'appelle Clément Chevallier et je suis étudiant en Master Data & Marketing à l'ESD de Bordeaux.
+- 🌱 J'apprends actuellement le langage de programmation Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-clmchh/clmchh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 Comment me joindre ? Me parler ? Me suivre
+- https://www.linkedin.com/in/cl%C3%A9ment-chevallier-509b5022b/
